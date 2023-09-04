@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Dev & Engineering Practice Lead @ Vaimo</h3>
 
 - 🔭 I’m currently working with PHP, Adobe Commerce, NEXTJS, NodeJS
-- 🌱 I’m also working and learning Commercetools, Shopify, MedusaJS
+- 🌱 I’m also working with Shopify, Commercetools, MedusaJS
 
 - 💬 Ask me about ecommerce
 
