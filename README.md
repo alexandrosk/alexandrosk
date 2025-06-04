@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Currently working with **PHP, Adobe Commerce, Next.js, Node.js**
+- 🔭 Currently working with **Next.JS, Contentful, Adobe Commerce, PHP, Node.js**
 - 🌱 Exploring **Shopify, Commercetools, and MedusaJS**
 - 💬 Ask me about **eCommerce architecture, performance, and integrations**
 - 🏗️ Always seeking new ways to solve complex business challenges through code
